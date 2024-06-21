@@ -1,0 +1,112 @@
+C:\Users\NoteBook\source\repos\generalsolution\generalsolution\obj\Debug\generalsolution.csproj.AssemblyReference.cache
+C:\Users\NoteBook\source\repos\generalsolution\generalsolution\obj\Debug\generalsolution_MarkupCompile.cache
+C:\Users\NoteBook\source\repos\generalsolution\generalsolution\obj\Debug\generalsolution_MarkupCompile.lref
+C:\Users\NoteBook\source\repos\generalsolution\generalsolution\bin\Debug\generalsolution.dll
+C:\Users\NoteBook\source\repos\generalsolution\generalsolution\bin\Debug\generalsolution.pdb
+C:\Users\NoteBook\source\repos\generalsolution\generalsolution\obj\Debug\Dialogbox\dialogbox.g.cs
+C:\Users\NoteBook\source\repos\generalsolution\generalsolution\obj\Debug\Dialogbox\dialogbox.baml
+C:\Users\NoteBook\source\repos\generalsolution\generalsolution\obj\Debug\generalsolution.g.resources
+C:\Users\NoteBook\source\repos\generalsolution\generalsolution\obj\Debug\generalsolution.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\source\repos\generalsolution\generalsolution\obj\Debug\generalsolution.dll
+C:\Users\NoteBook\source\repos\generalsolution\generalsolution\obj\Debug\generalsolution.pdb
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\bin\Debug\generalsolution.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\bin\Debug\generalsolution.pdb
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\bin\Debug\EPPlus.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\bin\Debug\System.Buffers.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\bin\Debug\System.Memory.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\obj\Debug\generalsolution.csproj.AssemblyReference.cache
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\obj\Debug\Dialogbox\dialogbox.g.cs
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\obj\Debug\generalsolution_MarkupCompile.cache
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\obj\Debug\generalsolution_MarkupCompile.lref
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\obj\Debug\Dialogbox\dialogbox.baml
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\obj\Debug\generalsolution.g.resources
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\obj\Debug\generalsolution.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\obj\Debug\generalsolution.csproj.CopyComplete
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\obj\Debug\generalsolution.dll
+C:\Users\mohamed.fathy\source\repos\generalsolution\generalsolution\obj\Debug\generalsolution.pdb
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\app.addin
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\generalsolution.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\generalsolution.pdb
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\EPPlus.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\System.Buffers.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\System.Memory.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\System.Text.Json.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\bin\Debug\System.ValueTuple.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\obj\Debug\generalsolution.csproj.AssemblyReference.cache
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\obj\Debug\Dialogbox\dialogbox.baml
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\obj\Debug\Dialogbox\dialogbox.g.cs
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\obj\Debug\generalsolution_MarkupCompile.cache
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\obj\Debug\generalsolution_MarkupCompile.lref
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\obj\Debug\generalsolution.g.resources
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\obj\Debug\generalsolution.columns_report.resources
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\obj\Debug\generalsolution.Properties.Resources.resources
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\obj\Debug\generalsolution.csproj.GenerateResource.cache
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\obj\Debug\generalsolution.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\obj\Debug\generalsolution.csproj.CopyComplete
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\obj\Debug\generalsolution.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin\A10_Columns Report Addin\obj\Debug\generalsolution.pdb
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\app.addin
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\generalsolution.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\generalsolution.pdb
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\EPPlus.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\System.Buffers.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\System.Memory.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\System.Text.Json.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\bin\Debug\System.ValueTuple.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\obj\Debug\generalsolution.csproj.AssemblyReference.cache
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\obj\Debug\Dialogbox\dialogbox.g.cs
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\obj\Debug\generalsolution_MarkupCompile.cache
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\obj\Debug\generalsolution_MarkupCompile.lref
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\obj\Debug\Dialogbox\dialogbox.baml
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\obj\Debug\generalsolution.g.resources
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\obj\Debug\generalsolution.columns_report.resources
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\obj\Debug\generalsolution.Properties.Resources.resources
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\obj\Debug\generalsolution.csproj.GenerateResource.cache
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\obj\Debug\generalsolution.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\obj\Debug\generalsolution.csproj.CopyComplete
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\obj\Debug\generalsolution.dll
+C:\Users\mohamed.fathy\source\repos\A10_Columns Report Addin - Copy\A10_Columns Report Addin\obj\Debug\generalsolution.pdb

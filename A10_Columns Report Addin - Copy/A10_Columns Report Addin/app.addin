@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Plugin-Name</Name>
+		<Assembly>generalsolution.dll</Assembly>
+		<FullClassName>generalsolution.Application</FullClassName>
+		<ClientId>BF09A9EE-81AC-413D-B40B-C11A62972745</ClientId>
+		<VendorId>Mohamed Ahmed Fathi </VendorId>
+		<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
